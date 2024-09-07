@@ -15,14 +15,18 @@ Files in This Repository
 script.py: The Python script that generates the HTML registration form.
 registration.html: The generated HTML file containing the registration form.
 index.html: The original unmodified HTML file.
+
 Repository Structure
 ├── script.py                # The Python script that generates the HTML registration form
+
 ├── registration.html        # The generated HTML registration form
+
 ├── index.html               # The original unmodified HTML form
+
 Usage
 Clone the repository:
 
-git clone https://github.com/AISWARYA789/Taskeight.git
+git clone https://github.com/Aiswarya789/Taskeight.git
 Navigate to the repository's directory:
 
 cd Taskeight
